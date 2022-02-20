@@ -1,3 +1,11 @@
+# Setup?
+
+1. Install node.js: https://nodejs.org/en/download/
+2. "npm install" in the project directory
+3. "npm start" should start the thing
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
